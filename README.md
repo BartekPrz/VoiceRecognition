@@ -5,7 +5,7 @@ This app try to recognise the sex of speaking person. It is simple concept based
 
 # Usage
 
-Download script and use data similar to 01_K.wav and 02_M.wav
+Download script and use data stored in "train" folder.
 
 In terminal, type:
 ```bash
